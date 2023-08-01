@@ -1,7 +1,28 @@
 body{
     background-color: antiquewhite;
+    
 }
-#OdinRecipesImg{
-    
-    
+
+.image-container #OdinRecipesImg{
+    max-height: 100%;
+    max-width: 100%;
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:groove;
+    border-color:antiquewhite;
+}
+
+.image-container{
+    text-align: center;
+}
+
+.image-container .rectangle{
+    text-align: right;
+    width: 200px;
+    height:100px;
+    background-color: rgb(252, 226, 193);
+    margin-top: 50px;
 }
