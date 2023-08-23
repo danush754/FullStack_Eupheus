@@ -1,0 +1,136 @@
+/* This coding is for Recipes but the coding for recipes image alone will change to know check page down */
+#firstHeading{
+    
+    color: #0d2a38;
+    font-family:'Advent pro', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:480;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 40px;
+    
+}
+
+body{
+    background-color: #d3d1d1;
+}
+
+#BiryaniImg{
+    display: block;
+    max-width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 2cm;
+}
+.firstsection{
+    margin: 20px;
+    border: 2px solid #a6b1b8;
+    background-color: #a6b1b8;
+    border-radius: 1cm  ;
+    
+}
+
+.firstsection #headingone{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Advent pro',system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    font-weight: 480;
+    color: #0d2a38;
+    
+    
+}
+.firstsection #paraone{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 20px;
+    font-weight: 100;
+    color: #132027;
+    padding-left: 10px;
+
+}
+
+.ingredientslist #headingtwo{
+    font-family: 'Advent pro',system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    font-weight: 480;
+    color: #0d2a38;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.ingredientslist{
+    margin: 20px;
+    border: 2px solid #a6b1b8;
+    background-color: #a6b1b8;
+    border-radius: 1cm  ;
+}
+
+.ingredientslist #firstlist{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 20px;
+    font-weight: 100;
+    color: #132027;
+    padding-left: 30px;
+
+}
+
+.stepslist{
+    margin: 20px;
+    border: 2px solid #a6b1b8;
+    background-color: #a6b1b8;
+    border-radius: 1cm  ;
+    }
+
+.stepslist #headingthree{
+    font-family: 'Advent pro',system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    font-weight: 480;
+    color: #0d2a38;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.stepslist #secondlist{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 20px;
+    font-weight: 100;
+    color: #132027;
+    padding-left: 40px;
+
+}
+/* This coding is for Butterchichen recipe image */
+
+#ButterChickenImg{
+    display: block;
+    max-width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 2cm;
+}
+/* This coding is for Chicken Al pastor recipe image */
+
+#chickenAlPastorImg{
+    display: block;
+    max-width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 2cm;
+}
+
+/* This coding is for Garlicky Shrimp Zucchini Boats recipe image */
+
+#zucchiniImg{
+    display: block;
+    max-width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 2cm;
+}
+/* This coding is for GGrilled Chicken Teriyaki Skewers with Miso Ranch recipe image */
+
+#teriyakiImg{
+    display: block;
+    max-width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 2cm;
+}
+
